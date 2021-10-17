@@ -1,0 +1,31 @@
+Open Github Desktop
+Click on the drop down arrow on top left ribbon 
+Click the add drop down and select clone repository
+Search for "pleiades-cluster/Yearling-Obsidian-Vault"
+Note the local path (needed for later)
+Press "Clone"
+Go to saved local path and drag-in the "PROVES Folder"
+
+
+
+Open Obsidian MD and Open "PROVES"\
+Navigate to the bottom left and click "Open New Vault"
+Go to the local path where your PROVES Folder is saved and click "Open" 
+
+
+
+Now navigate to the bottom left and find the cog (setting) and click on it
+Find "Community Plugins" and turn off "Safe Mode"
+"Community Plugins" -> "Browse" 
+Search for "Obsidian Git" and install it 
+On the same page where you installed it press "Enable"
+
+
+
+Escape and re-enter the settings page 
+Scroll to the bottom and find "Obsidian Git"
+Change the "Vault Backup Interval" and "Auto pull interval"
+Change Commit Message to have your initials in it 
+Turn on "Pull updates on startup" and "Pull changes before push"
+Make sure "Disable push" is off!
+Have fun! :D
