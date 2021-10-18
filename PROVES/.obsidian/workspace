@@ -7,8 +7,11 @@
         "id": "e810f6d828b5864e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Daniella's Pleiades SLR/Programmatic Timeline/Firefly Alpha Launch.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daniella's Pleiades SLR/Programmatic Timeline/Firefly Alpha Launch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,12 +88,15 @@
   },
   "active": "e810f6d828b5864e",
   "lastOpenFiles": [
+    "Daniella's Pleiades SLR/Programmatic Timeline/Firefly Alpha Launch.md",
+    "Daniella's Pleiades SLR/Programmatic Timeline/Deadline.md",
+    "Daniella's Pleiades SLR/Money/Hardware - Cost.md",
+    "Daniella's Pleiades SLR/Physcial Characteristics/CubeSat Total Size.md",
     "Untitled.md",
     "PROVES/ADCS/Magnetorquers.md",
     "PROVES/ADCS/Reaction Wheels.md",
     "PROVES/ADCS/Sun Sensors.md",
     "PROVES/OBC & FC/Jetson Nano Developer Kit (4GB).md",
-    "PROVES/PROVES/COMMs/Ruler Antennas.md",
-    "PROVES/PROVES/ADCS/Sun Sensors.md"
+    "PROVES/PROVES/COMMs/Ruler Antennas.md"
   ]
 }
