@@ -9,6 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
+
             "file": "Daniella's Pleiades SLR/Programmatic Timeline/Firefly Alpha Launch.md",
             "mode": "source"
           }
@@ -88,6 +89,7 @@
   },
   "active": "e810f6d828b5864e",
   "lastOpenFiles": [
+
     "Daniella's Pleiades SLR/Programmatic Timeline/Firefly Alpha Launch.md",
     "Daniella's Pleiades SLR/Programmatic Timeline/Deadline.md",
     "Daniella's Pleiades SLR/Money/Hardware - Cost.md",
@@ -97,6 +99,7 @@
     "PROVES/ADCS/Reaction Wheels.md",
     "PROVES/ADCS/Sun Sensors.md",
     "PROVES/OBC & FC/Jetson Nano Developer Kit (4GB).md",
-    "PROVES/PROVES/COMMs/Ruler Antennas.md"
+
+    "PROVES/PROVES/COMMs/Ruler Antennas.md,
   ]
 }
