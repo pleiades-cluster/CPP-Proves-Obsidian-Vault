@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "cb971d5643244124",
+    "type": "split",
+    "children": [
+      {
+        "id": "e810f6d828b5864e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PROVES/ADCS/Magnetorquers.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62f94c2d38c9d06d",
+    "type": "split",
+    "children": [
+      {
+        "id": "22bd8268e6566ac5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f930c62b94655249",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bfbe3fd1f0326ac6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e1dcb37ff1566d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc3ba53bc79fe16a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "540d43ef154ad967",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PROVES/ADCS/Magnetorquers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e810f6d828b5864e",
+  "lastOpenFiles": [
+    "PROVES/ADCS/Magnetorquers.md",
+    "PROVES/ADCS/Reaction Wheels.md",
+    "PROVES/ADCS/Sun Sensors.md",
+    "PROVES/OBC & FC/Jetson Nano Developer Kit (4GB).md",
+    "PROVES/PROVES/COMMs/Ruler Antennas.md",
+    "PROVES/PROVES/ADCS/Sun Sensors.md"
+  ]
+}
