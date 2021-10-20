@@ -1,1 +1,0 @@
-Yearling must preform duties for at least one month 

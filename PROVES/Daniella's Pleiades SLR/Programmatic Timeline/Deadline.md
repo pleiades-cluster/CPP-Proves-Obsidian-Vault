@@ -1,1 +1,0 @@
-The rapid development and production of the cubesat is key in the. The final deadline of the Yearling is projected to be the end of the calander year, 2021 
