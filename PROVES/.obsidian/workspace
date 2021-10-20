@@ -7,8 +7,11 @@
         "id": "34c03f7915f069b0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Testing.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +88,8 @@
   },
   "active": "34c03f7915f069b0",
   "lastOpenFiles": [
+    "Testing.md",
     "PROVES/COMMs/Ruler Antennas.md",
-    "Untitled.md",
     "PROVES/PROVES/Payload/Spresence.md"
   ]
 }
