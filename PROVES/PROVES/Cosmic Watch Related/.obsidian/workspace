@@ -1,29 +1,32 @@
 {
   "main": {
-    "id": "3df36b2d09040af5",
+    "id": "c7971627801f7719",
     "type": "split",
     "children": [
       {
-        "id": "34c03f7915f069b0",
+        "id": "55ae70c97eaea5f4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CP With Nano RP2040.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b2c636cbd97d6748",
+    "id": "1ac770eb5e37b4bf",
     "type": "split",
     "children": [
       {
-        "id": "9121da1079aaec2d",
+        "id": "2c85b67cdfbbc426",
         "type": "tabs",
         "children": [
           {
-            "id": "a7d8351dbb538efe",
+            "id": "0b7a574dc8a2dee4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +34,7 @@
             }
           },
           {
-            "id": "79d2857cd7f1796a",
+            "id": "31194d8e09e0973e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,19 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "2542365fb05426a5",
+    "id": "a2524100e7b9dc09",
     "type": "split",
     "children": [
       {
-        "id": "b0926cf09ee012d3",
+        "id": "e5ab8eccc50e0982",
         "type": "tabs",
         "children": [
           {
-            "id": "2cf8a11de08d7837",
+            "id": "3882f64a244f47ac",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CP With Nano RP2040.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,10 +86,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "34c03f7915f069b0",
+  "active": "55ae70c97eaea5f4",
   "lastOpenFiles": [
-    "PROVES/COMMs/Ruler Antennas.md",
-    "Untitled.md",
-    "PROVES/PROVES/Payload/Spresence.md"
+    "CP With Nano RP2040.md",
+    "Untitled.md"
   ]
 }
