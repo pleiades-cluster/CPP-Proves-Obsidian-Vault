@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "1fef9deac5abbd69",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e1e241a69b667b2",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f16e066300c07a25",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcb0811ee7e32bc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06469dc9ba99c181",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "458c88cb11b54f05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "993e61f91c7281be",
+    "type": "split",
+    "children": [
+      {
+        "id": "751c80f68298a10e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5547a67dd938136",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8e1e241a69b667b2",
+  "lastOpenFiles": [
+    "Pleiades/Money/Hardware - Cost.md",
+    "Money/Hardware - Cost.md",
+    "System Requirements.md",
+    "orbital characteristics.md",
+    "Background.md",
+    "Technological Characteristics/powersystem.md",
+    "Technological Characteristics/Communications.md",
+    "Programmatic Timeline/Firefly Alpha Launch.md",
+    "Programmatic Timeline/Deadline.md",
+    "Physcial Characteristics/CubeSat Total Size.md"
+  ]
+}
